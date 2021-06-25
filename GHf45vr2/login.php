@@ -37,7 +37,7 @@
         <input type="text" class="login-input" name="username" placeholder="Username" autofocus="true"/>
         <input type="password" class="login-input" name="password" placeholder="Password"/>
         <input type="submit" value="Login" name="submit" class="login-button"/>
-        <p class="link">Don't have an account? <a href="registration.php">Registration Now</a></p>
+        <p class="link">Don't have an account? <a href="registration.php">Register Now</a></p>
   </form>
 <?php
     }
